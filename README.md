@@ -146,7 +146,7 @@ Next, let's perform PCA separately on the Gaussian and non-Gaussian periods to c
   <img src="figures/PCA_variance_Gaussian_vs_NonGaussian.png" alt="PCA_variance" width="600"/>
 </p>
 
-- Interpretation of Results (left: Gaussian, right: Non-Gaussian)
+- Interpretation of Results
   - During normal market conditions, PC1 accounts for about 25% of the variance, with PC2 and PC3 contributing around 10% each.
   - In contrast, during a financial crisis, PC1 explains approximately 45% of the variance, indicating that overall market movement has a much stronger common influence across individual stocks in such periods.
 
